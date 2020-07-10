@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058582559488",
+    "firebase_url": "https://whatscooking-920ed.firebaseio.com",
+    "project_id": "whatscooking-920ed",
+    "storage_bucket": "whatscooking-920ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058582559488:android:42d84e7839f034562fd1e5",
+        "android_client_info": {
+          "package_name": "com.example.whats_cooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058582559488-70iklpsuntf6pad484rdp92dqoukvk9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whats_cooking",
+            "certificate_hash": "72714bf046e8df805912147adff7622ca58386d5"
+          }
+        },
+        {
+          "client_id": "1058582559488-09kltpnut3aglucu3pnkn3lq1deo1mnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOEPYqkmtQwvPyTo0ee0ayvWaBoUwBIXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058582559488-09kltpnut3aglucu3pnkn3lq1deo1mnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
